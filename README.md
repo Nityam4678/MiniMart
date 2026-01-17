@@ -25,19 +25,6 @@ This is a **frontend-only project**. No backend, payment gateway, or API is impl
 - JavaScript (ES6+)
 
 
-## 📁 Project Structure
-
-src/
-│── components/        # Reusable UI components
-│── pages/             # Pages (Home, Cart)
-│── redux/
-│   ├── store.js       # Redux store
-│   └── cartSlice.js   # Cart logic
-│── data/              # Static product data
-│── styles/            # Custom CSS & animations
-│── App.jsx
-│── main.jsx
-
 
 ##  Cart & Checkout Behavior
 
@@ -51,7 +38,7 @@ src/
   ## 🛠️ Installation & Run
 
 ```bash
-git clone https://github.com/your-username/MiniMart.git
+git clone https://github.com/Nityam4678/MiniMart.git
 cd MiniMart
 npm install
 npm run dev
