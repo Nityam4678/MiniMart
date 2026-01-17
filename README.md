@@ -1,5 +1,5 @@
-# 🛒 Ecomzy – Frontend E-Commerce UI
-Ecomzy is a modern **dark-themed, glassmorphic e-commerce frontend** built using **React, Redux, Tailwind CSS, and custom CSS**.
+# 🛒 MiniMart –  E-Commerce website
+MiniMart is a modern **dark-themed, glassmorphic e-commerce frontend** built using **React, Redux, Tailwind CSS, and custom CSS**.
 
 This is a **frontend-only project**. No backend, payment gateway, or API is implemented.
 
@@ -51,6 +51,6 @@ src/
 
 ```bash
 git clone https://github.com/your-username/MiniMart.git
-cd ecomzy
+cd MiniMart
 npm install
 npm run dev
