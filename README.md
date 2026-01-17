@@ -28,15 +28,16 @@ This is a **frontend-only project**. No backend, payment gateway, or API is impl
 ## 📁 Project Structure
 
 src/
-│── components/ # Reusable UI components
-│── pages/ # Pages (Home, Cart)
+│── components/        # Reusable UI components
+│── pages/             # Pages (Home, Cart)
 │── redux/
-│ ├── store.js # Redux store
-│ └── cartSlice.js # Cart logic
-│── data/ # Static product data
-│── styles/ # Custom CSS & animations
+│   ├── store.js       # Redux store
+│   └── cartSlice.js   # Cart logic
+│── data/              # Static product data
+│── styles/            # Custom CSS & animations
 │── App.jsx
 │── main.jsx
+
 
 ##  Cart & Checkout Behavior
 
