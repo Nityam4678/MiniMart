@@ -38,7 +38,7 @@ This is a **frontend-only project**. No backend, payment gateway, or API is impl
   ## 🛠️ Installation & Run
 
 ```bash
-git clone https://github.com/Nityam4678/MiniMart.git
+git clone https://github.com/username/MiniMart.git
 cd MiniMart
 npm install
 npm run dev
